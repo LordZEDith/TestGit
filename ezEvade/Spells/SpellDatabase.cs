@@ -351,12 +351,13 @@ namespace ezEvade
                 name = "AzirR",
                 missileName = "AzirSoldierRMissile",
                 projectileSpeed = 1400,
-                radius = 700,
-                range = 450,
+                radius = 450,
+                range = 700,
                 spellDelay = 250,
                 spellKey = SpellSlot.R,
                 spellName = "AzirR",
                 spellType = SpellType.Line,
+                isSpecial = true,
             });
 
             #endregion Azir
